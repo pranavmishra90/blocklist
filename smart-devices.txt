@@ -1,4 +1,0 @@
-# Hosts file to block Smart Devices
-
-# Thermostat
-0.0.0.0 weather.clouddevice.io
